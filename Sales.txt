@@ -1,0 +1,4 @@
+bdc,bdc@gmail.com,12345,1002,Dairy Milk,5,12,60,Fri Jun 16 16:14:05 2023
+abc,abc@gmail.com,56789,1004,Kitkat,20,20,400,Fri Jun 16 16:14:43 2023
+pru,pru@gmail.com,123456789,1001,5 star,10,1000,9000.0,Fri Jun 16 16:30:55 2023
+taylor,taylor@gmail.com,198919891989,1002,Dairy Milk,5,1000,4500.0,Fri Jun 16 16:33:01 2023
